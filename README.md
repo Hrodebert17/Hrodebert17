@@ -2,5 +2,6 @@
 - 👀 I’m interested in Programming
 - 🌱 I work on c++ and java
 - 💞️ I’m looking to collaborate on web dev and game dev
-- 📫 How to reach me hrodeberts.studio@gmail.com
+
+i lost this email btw hrodeberts.studio@gmail.com
 
